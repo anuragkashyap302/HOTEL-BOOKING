@@ -37,7 +37,7 @@ import listIcon from "./listIcon.svg";
 import uploadArea from "./uploadArea.svg";
 import totalBookingIcon from "./totalBookingIcon.svg";
 import totalRevenueIcon from "./totalRevenueIcon.svg";
-import Anurag from "./ANURAG.PNG"
+import Anurag from "./ANURAG.png"
 
 
 export const assets = {
