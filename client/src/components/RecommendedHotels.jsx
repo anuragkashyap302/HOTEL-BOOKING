@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import HotelCard from './HotelCard'
 import Title from './Title'
 import { useNavigate } from 'react-router-dom'
+import { useAppContext } from '../context/AppContext'
 
 
 const RecommendedHotels = () => {

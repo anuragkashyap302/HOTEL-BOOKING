@@ -4,6 +4,7 @@ import { assets, facilityIcons, roomCommonData } from '../assets/assets';
 import StarRating from '../components/StarRating';
 
 import toast from 'react-hot-toast';
+import { useAppContext } from '../context/AppContext';
 
 const RoomDetails = () => {
      const {id} = useParams()
